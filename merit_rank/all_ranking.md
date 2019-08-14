@@ -1091,6 +1091,12 @@
      * 实际应用案例：
      * 微认证： 
      
+ * Cream_ke：2个积分，贡献点：
+     * 完成案例：[第一期](https://github.com/huaweicloud/ModelArts-Lab/issues/49#issuecomment-521175864)
+     * 体验文章：
+     * 扩展案例：
+     * 实际应用案例：
+     * 微认证：[ModelArts实现零售商客户分群](https://github.com/huaweicloud/ModelArts-Lab/issues/177#issuecomment-521180725)
 <B>共计154位参与者</B>
 
 
